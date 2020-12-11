@@ -1,3 +1,7 @@
+# Project ignores
+models/*
+!models/.gitkeep
+
 # IDE ignores
 .vscode/
 
