@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_hub
+seaborn
+matplotlib
+scipy
+notebook
